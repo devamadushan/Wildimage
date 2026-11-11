@@ -13,3 +13,4 @@ dist/
 *.log
 *.zip
 workspace_Wildimage/
+tests/
